@@ -8,7 +8,7 @@
 <li>N/A</li>
 
 <h3>Usage</h3>
-<li>To use this Study Guide, you can review the notes in each sectin.  For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (MacOS) or control+Shift+I (Windows).  A console panel should open either below or to the side of the webpage in the browser.  There you will see a list of topics we learned from Prework along with a suggestion on which topic to study first.</li>
+<li>To use this Study Guide, you can review the notes in each section.  For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (MacOS) or control+Shift+I (Windows).  A console panel should open either below or to the side of the webpage in the browser.  There you will see a list of topics we learned from Prework along with a suggestion on which topic to study first.</li>
   
   <h4>Credits</h4>
   <li>N/A</li>
