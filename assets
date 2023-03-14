@@ -1,3 +1,11 @@
 <head>
+ <style>
+   h1 {
+     color: red;
+   }
+ </style>
+</head>
+
+<head>
  <link rel="stylesheet" href="./assets/style.css" />
 </head>
