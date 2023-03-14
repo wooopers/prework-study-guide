@@ -1,4 +1,5 @@
-# prework-study-guide <head> <style> h1 {color : red;} </style> </head>
+# prework-study-guide 
+<head> <style> h1 {color : red;} </style> </head>
 <title>Study Guide Webpage</title>
 
 <h1>Description</h1>
