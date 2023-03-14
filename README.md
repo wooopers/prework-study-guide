@@ -1,5 +1,5 @@
 # prework-study-guide 
-<title>Study Guide Webpage</title>
+<title>Study-Guide-Webpage</title>
 
 <h1>Description</h1>
 <li>This Study Guide was created for boot camp students who were going though the prework. It contains notes on HTML,CSS,git, and Javascript.</li>
