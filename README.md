@@ -15,3 +15,11 @@
   
   <h5>License</h5>
   <li>Please refer to the LICENSE in the repo</li>
+
+<head>
+ <style>
+   h1 {
+     color: red;
+   }
+ </style>
+</head>
