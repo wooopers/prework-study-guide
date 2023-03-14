@@ -17,6 +17,3 @@
   <li>Please refer to the LICENSE in the repo</li>
 
 
-<head>
- <link rel="stylesheet" href="./assets/style.css" />
-</head>
