@@ -2,7 +2,13 @@
 <h0>Study-Guide-Webpage</h0>
 
 <h1>Description</h1>
-<li>This Study Guide was created for boot camp students who were going though the prework. It contains notes on HTML,CSS,git, and Javascript.</li>
+<head>
+ <style>
+   h1 {
+     color: red;
+   }
+ </style>
+</head><li>This Study Guide was created for boot camp students who were going though the prework. It contains notes on HTML,CSS,git, and Javascript.</li>
 
 <h2>Installation</h2>
 <li>N/A</li>
