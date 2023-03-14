@@ -1,8 +1,6 @@
 # prework-study-guide 
 <h0>Study-Guide-Webpage</h0>
 
-<head>-<style>-h1 {color: red;}-</style>-</head>
-
 <h1>Description</h1>
 <li>This Study Guide was created for boot camp students who were going though the prework. It contains notes on HTML,CSS,git, and Javascript.</li>
 
